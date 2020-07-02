@@ -1,0 +1,22 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.categories1 {
+    float: left;
+    margin-top: 50px;
+    margin-left: 150px;
+    height: 225px;
+    width: 350px;
+    border: 1px solid black;
+}
+
+.details1 {
+    float: right;
+    margin-top: 50px;
+    margin-right: 150px;
+    height: 225px;
+    width: 350px;
+    border: 1px solid black;
+}
